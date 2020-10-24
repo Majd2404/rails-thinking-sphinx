@@ -1,5 +1,5 @@
 
-#How to bring Sphinx into Rails, using Thinking Sphinx, to provide fast and flexible full-text search.
+# How to bring Sphinx into Rails, using Thinking Sphinx, to provide fast and flexible full-text search.
 
 
 
