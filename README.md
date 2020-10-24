@@ -1,6 +1,9 @@
 
-<title>How to bring Sphinx into Rails, using Thinking Sphinx, to provide fast and flexible full-text search.
-</title>
+#How to bring Sphinx into Rails, using Thinking Sphinx, to provide fast and flexible full-text search.
+
+
+
+
 
 # Installing Sphinx
 Linux
